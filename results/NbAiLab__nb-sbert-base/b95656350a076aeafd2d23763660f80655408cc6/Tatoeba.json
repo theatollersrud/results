@@ -1,0 +1,35 @@
+{
+  "dataset_revision": "69e8f12da6e31d59addadda9a9c8a2e601a0e282",
+  "task_name": "Tatoeba",
+  "mteb_version": "1.36.13",
+  "scores": {
+    "test": [
+      {
+        "precision": 0.954333,
+        "recall": 0.969,
+        "f1": 0.959167,
+        "accuracy": 0.969,
+        "main_score": 0.959167,
+        "hf_subset": "nob-eng",
+        "languages": [
+          "nob-Latn",
+          "eng-Latn"
+        ]
+      },
+      {
+        "precision": 0.937,
+        "recall": 0.955,
+        "f1": 0.942633,
+        "accuracy": 0.955,
+        "main_score": 0.942633,
+        "hf_subset": "nno-eng",
+        "languages": [
+          "nno-Latn",
+          "eng-Latn"
+        ]
+      }
+    ]
+  },
+  "evaluation_time": 1.6168310642242432,
+  "kg_co2_emissions": null
+}

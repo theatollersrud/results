@@ -1,0 +1,8 @@
+{
+  "dataset_revision": "6d1962c527217f8927fca80f890f14f36b2802af",
+  "task_name": "MIRACLReranking",
+  "mteb_version": "1.36.13",
+  "scores": {},
+  "evaluation_time": 7.152557373046875e-06,
+  "kg_co2_emissions": null
+}
